@@ -19,7 +19,10 @@ library("BSDA")
 
 
 #creating and saving the sample
-createsample(201685598)
+
+identification <- Sys.getenv("ID_NUMBER")
+
+createsample(identification)
 save(mysample, file="mysample.Rdata")
 
 #loading mysample

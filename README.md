@@ -2,8 +2,23 @@ Interpreting the patterns of serial killers
 ===============================================
 Prajwal Amin
 
+<br/>
+
+Index
+-----
+
+- [Introduction](#introduction)
+- [Data Exploration](#data-exploration)
+- [Modelling](#modelling)
+- [Estimation](#estimation)
+- [Inference](#inference)
+- [Conclusion](#conclusion)
+
+<br/>
 
 
+Introduction
+------------
 
 There is no control over the surge of crimes reported all over the world, driven by various motives of the killer, moreover, there are serial killers who are striving to hunt their victims and end up being convicted of multiple murders. A serial killer typically is a person who commits the unlawful killing of two or more victims.
 

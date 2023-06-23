@@ -32,6 +32,12 @@ The data set has a total of 9 variables with 191 observations, out of which 9 (5
 
 After the pre-processing stage, there are a total of 154 observations, out of which 133 of the killers were found to be males and 21 females. Further, the tables and graphs below produce numerical and graphical summaries of the observations.
 
+| Sex | Gand or Organized Crime (n = 79) | Mental illness (n=20) | Revenge or vigilante justice (n=55) |
+| --------- | --------- | --------- | --------- |
+| Male   | 76    | 8    | 49    |
+| Female    | 3    | 12    | 6    |
+
+
 ![](./img/table1.png)
 ![](./img/table2.png)
 ![](./img/fig1.png)

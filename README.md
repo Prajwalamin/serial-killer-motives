@@ -38,8 +38,13 @@ After the pre-processing stage, there are a total of 154 observations, out of wh
 | Female    | 3    | 12    | 6    |
 
 
-![](./img/table1.png)
-![](./img/table2.png)
+| n=133 | AgeFirstKill | YearFirstKill | CareerDuration |
+| --------- | --------- | --------- | --------- |
+| Min    | 15    | 1908    | 0    |
+| Max    | 59    | 2012    | 35    |
+| Mean    | 26.89    | 1985    | 4.33    |
+| SD    | 7.90    | 17.15    | 6.65    |
+
 ![](./img/fig1.png)
 
 This gives an assumption that the average age at first kill differs between the motives, but can’t prove this assumption to be right just by visualizing the observations. We will have to propose models to find out which distribution the sample comes from and test for normality, for each of the motives.
